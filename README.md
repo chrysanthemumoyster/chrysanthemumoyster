@@ -1,10 +1,28 @@
 - 👋 Hi, I’m @chrysanthemumoyster
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 我正在准备一些国外工作或者国内远程的内推岗位机会(大牛级别)
+- 💞️ 如果你感兴趣,请直接联系我,我会在第一时间回复你
+- 📫 Gmail: chrysanthemumoyster@gmail.com
+#运维岗
+##高级运维工程师 (35k-55k)
+##高级DBA运维工程师 (40k-60k)
 
-<!---
-chrysanthemumoyster/chrysanthemumoyster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#网络安全岗
+##高级系统工程师 (25k-35k)
+##高级应急响应工程师 (35k-45k)
+
+#产品部
+##客户端高级产品经理 (35k-55k)
+##中后台高级产品经理 (35k-55k)
+
+#运营中心
+##风控总监/经理 (30k-100k)
+
+#研发部
+##前端开发工程师 (30k-100k)
+##iOS开发工程师 (30k-100k)
+##Android开发工程师 (30k-100k)
+##Java资深开发工程师/架构师 (30k-100k)
+##高级Java工程师 (30k-50k)
+##高级产品经理 (30k-50k)
+##高级性能测试工程师 (30k-60k)
+##高级安全渗透工程师 (30k-70k)
