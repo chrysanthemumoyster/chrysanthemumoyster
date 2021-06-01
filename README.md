@@ -20,12 +20,12 @@
 - #研发部
 - -前端开发工程师 (30k-100k)
 
-    1、不依赖脚手架搭建项目架构，比如vue-cli、create-react-app cli、angular-cli这些命令行自动生成的项目组织架构；
-    2、熟练掌握JS开发语言，熟悉ES6；
-    3、熟悉Vue、React等常见前端框架，并对底层运行原理有深入了解
-    4、对前端自动化构建流程有独立的思考能力；
-    5、对JavaScript语言机制有比较深的理解；
-    6、对node.js服务端开发有一定的了解，比如react、vue的服务端渲染，中间件服务器（gateway）的开发；
+    1. 不依赖脚手架搭建项目架构，比如vue-cli、create-react-app cli、angular-cli这些命令行自动生成的项目组织架构；
+    2. 熟练掌握JS开发语言，熟悉ES6；
+    3. 熟悉Vue、React等常见前端框架，并对底层运行原理有深入了解
+    4. 对前端自动化构建流程有独立的思考能力；
+    5. 对JavaScript语言机制有比较深的理解；
+    6. 对node.js服务端开发有一定的了解，比如react、vue的服务端渲染，中间件服务器（gateway）的开发；
 
     加分项：
     TypeScript、rxjs、Nest、Electron、Flutter
